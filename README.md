@@ -1,2 +1,2 @@
-![screenshot_1](/exmple.PNG)
+![screenshot_1](/example.PNG)
 
